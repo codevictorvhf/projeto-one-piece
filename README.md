@@ -1,17 +1,17 @@
 # projeto-one-piece
+
 <p align="center" >
-<img src="features/print-catraca.png" alt="Demonstração do Projeto" width="100%" />
+<img src="src/images/print-one-piece.png" alt="Demonstração do Projeto" width="100%" />
 </p>
 
 ## 🖥️ Projeto
 
-Projeto Web Responsivo de uma tela de registro de catraca do Colégio Batista Mineiro. 
+Projeto Web Responsivo de uma tela do OnePiece.
 
 ## 🚀 Tecnologias
 
 Esse projeto foi desenvolvido com as seguintes tecnologias:
 
 - HTML
-- CSS 
-- JavaScript
+- CSS
 - Git e Github
